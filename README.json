@@ -33,7 +33,7 @@
             "last_commit": "2024-08-13T16:27:00Z",
             "owner": "ssrg-vt",
             "repo": "hermitux",
-            "stars": 399
+            "stars": 398
           }
         }
       ],
@@ -274,7 +274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:48:30.090Z",
+    "last_updated": "2026-08-15T04:50:00.052Z",
     "original_repository": "uniqernel/awesome-unikernels",
     "original_repository_sha": "33bee94ee62fa63fe1c361385e4ed63da970a2e0",
     "enhanced_repository": "enhansome/enhansome-unikernels",

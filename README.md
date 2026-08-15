@@ -14,14 +14,14 @@
 
 ## Introduction
 
-* [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels) ⭐ 642 | 🐛 3 | 🌐 C++ | 📅 2022-02-16 - Introductory white paper maintained by CETIC engineers.
+* [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels) ⭐ 643 | 🐛 3 | 🌐 C++ | 📅 2022-02-16 - Introductory white paper maintained by CETIC engineers.
 
 ## Projects
 
 ### Linux Binary Compatible
 
 * [Nanos](https://github.com/nanovms/nanos) ⭐ 3,177 | 🐛 79 | 🌐 C | 📅 2026-08-09 - Linux binary compatible unikernel focused on security.
-* [HermiTux](https://github.com/ssrg-vt/hermitux) ⭐ 399 | 🐛 16 | 🌐 C | 📅 2024-08-13 - Research project from Virginia Tech, demonstrating advanced optimizations.
+* [HermiTux](https://github.com/ssrg-vt/hermitux) ⭐ 398 | 🐛 16 | 🌐 C | 📅 2024-08-13 - Research project from Virginia Tech, demonstrating advanced optimizations.
 * [OSv](http://osv.io) - Modular unikernel able to execute unmodified Linux binaries, developed in C++.
 
 ### Language oriented
@@ -72,4 +72,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
