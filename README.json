@@ -67,7 +67,7 @@
             "last_commit": "2022-04-17T15:00:18Z",
             "owner": "cloudozer",
             "repo": "ling",
-            "stars": 823
+            "stars": 824
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-06-12T19:06:32Z",
             "owner": "ReturnInfinity",
             "repo": "BareMetal",
-            "stars": 916
+            "stars": 917
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2023-04-27T07:13:23Z",
             "owner": "solo-io",
             "repo": "unik",
-            "stars": 2820
+            "stars": 2821
           }
         },
         {
@@ -258,7 +258,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-04T08:29:11Z",
+            "last_commit": "2026-08-15T08:08:33Z",
             "owner": "robur-coop",
             "repo": "albatross",
             "stars": 167
@@ -274,7 +274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:50:00.052Z",
+    "last_updated": "2026-08-16T04:52:02.466Z",
     "original_repository": "uniqernel/awesome-unikernels",
     "original_repository_sha": "33bee94ee62fa63fe1c361385e4ed63da970a2e0",
     "enhanced_repository": "enhansome/enhansome-unikernels",
