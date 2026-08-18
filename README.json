@@ -53,7 +53,7 @@
             "last_commit": "2026-05-15T07:52:49Z",
             "owner": "includeos",
             "repo": "IncludeOS",
-            "stars": 5247
+            "stars": 5245
           }
         },
         {
@@ -274,7 +274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:00:56.759Z",
+    "last_updated": "2026-08-18T04:54:50.111Z",
     "original_repository": "uniqernel/awesome-unikernels",
     "original_repository_sha": "33bee94ee62fa63fe1c361385e4ed63da970a2e0",
     "enhanced_repository": "enhansome/enhansome-unikernels",
