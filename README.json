@@ -1,226 +1,244 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nanos",
+              "description": "Linux binary compatible unikernel focused on security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115159616,
+                "language": "C",
+                "last_commit": "2026-08-09T06:01:27Z",
+                "owner": "nanovms",
+                "repo": "nanos",
+                "stars": 3180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HermiTux",
+              "description": "Research project from Virginia Tech, demonstrating advanced optimizations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106843619,
+                "language": "C",
+                "last_commit": "2024-08-13T16:27:00Z",
+                "owner": "ssrg-vt",
+                "repo": "hermitux",
+                "stars": 398
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Linux Binary Compatible"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IncludeOS",
+              "description": "Feature rich unikernel development library for C++.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21562567,
+                "language": "C++",
+                "last_commit": "2026-05-15T07:52:49Z",
+                "owner": "includeos",
+                "repo": "IncludeOS",
+                "stars": 5245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LING",
+              "description": "Erlang/Elixir unikernel development toolkit targeting Xen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19314469,
+                "language": "C",
+                "last_commit": "2022-04-17T15:00:18Z",
+                "owner": "cloudozer",
+                "repo": "ling",
+                "stars": 824
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ultibo Core",
+              "description": "Lazarus/FreePascal unikernel targeting Raspberry Pi as the runtime environment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50970731,
+                "language": "Pascal",
+                "last_commit": "2026-08-04T08:16:24Z",
+                "owner": "ultibohub",
+                "repo": "Core",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rekernel",
+              "description": "Minimal setup for developing unikernels in ReasonML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235799956,
+                "language": "Makefile",
+                "last_commit": "2020-04-10T04:15:46Z",
+                "owner": "smorimoto",
+                "repo": "rekernel",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Union",
+              "description": "POSIX compliant unikernel written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133709462,
+                "language": "Assembly",
+                "last_commit": "2018-05-19T21:00:42Z",
+                "owner": "pmuens",
+                "repo": "union",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "binaryno",
+              "description": "Rust unikernel running on bare ARM CortexM hardware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242184159,
+                "language": "Rust",
+                "last_commit": "2020-02-23T22:05:51Z",
+                "owner": "gmodena",
+                "repo": "binaryno",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Language oriented"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BareMetal",
+              "description": "Self described as an exokernel, it can be used as the starting point for unikernel development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22650819,
+                "language": "Assembly",
+                "last_commit": "2026-06-12T19:06:32Z",
+                "owner": "ReturnInfinity",
+                "repo": "BareMetal",
+                "stars": 918
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HermitCore",
+              "description": "A C-based, lightweight unikernel project from Aachen University.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 35319633,
+                "language": "C",
+                "last_commit": "2021-11-05T09:26:51Z",
+                "owner": "hermit-os",
+                "repo": "libhermit",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EbbRT",
+              "description": "Boston University unikernel research project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10059560,
+                "language": "C",
+                "last_commit": "2024-07-23T17:13:04Z",
+                "owner": "SESA",
+                "repo": "EbbRT",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nautilus",
+              "description": "Aerokernel from Sandia National Laboratories, supporting bare metal x86_64 and Xeon Phi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143364231,
+                "language": "C",
+                "last_commit": "2022-05-11T17:19:20Z",
+                "owner": "HExSA-Lab",
+                "repo": "nautilus",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "unicycle",
+              "description": "Unikernel application framework developed in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179116612,
+                "language": "C",
+                "last_commit": "2025-06-01T03:13:47Z",
+                "owner": "libunicycle",
+                "repo": "unicycle",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JML",
+              "description": "Proof of concept for a minimal web server unikernel implementing its own language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55430096,
+                "language": "C",
+                "last_commit": "2024-05-23T14:47:56Z",
+                "owner": "yesco",
+                "repo": "jml",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generic"
+        }
+      ],
       "title": "Projects"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Nanos",
-          "description": "Linux binary compatible unikernel focused on security.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-09T06:01:27Z",
-            "owner": "nanovms",
-            "repo": "nanos",
-            "stars": 3180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HermiTux",
-          "description": "Research project from Virginia Tech, demonstrating advanced optimizations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-08-13T16:27:00Z",
-            "owner": "ssrg-vt",
-            "repo": "hermitux",
-            "stars": 398
-          }
-        }
-      ],
-      "title": "Linux Binary Compatible"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "IncludeOS",
-          "description": "Feature rich unikernel development library for C++.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-05-15T07:52:49Z",
-            "owner": "includeos",
-            "repo": "IncludeOS",
-            "stars": 5245
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LING",
-          "description": "Erlang/Elixir unikernel development toolkit targeting Xen.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-04-17T15:00:18Z",
-            "owner": "cloudozer",
-            "repo": "ling",
-            "stars": 824
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ultibo Core",
-          "description": "Lazarus/FreePascal unikernel targeting Raspberry Pi as the runtime environment.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pascal",
-            "last_commit": "2026-08-04T08:16:24Z",
-            "owner": "ultibohub",
-            "repo": "Core",
-            "stars": 185
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rekernel",
-          "description": "Minimal setup for developing unikernels in ReasonML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2020-04-10T04:15:46Z",
-            "owner": "smorimoto",
-            "repo": "rekernel",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Union",
-          "description": "POSIX compliant unikernel written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2018-05-19T21:00:42Z",
-            "owner": "pmuens",
-            "repo": "union",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "binaryno",
-          "description": "Rust unikernel running on bare ARM CortexM hardware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2020-02-23T22:05:51Z",
-            "owner": "gmodena",
-            "repo": "binaryno",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Language oriented"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BareMetal",
-          "description": "Self described as an exokernel, it can be used as the starting point for unikernel development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2026-06-12T19:06:32Z",
-            "owner": "ReturnInfinity",
-            "repo": "BareMetal",
-            "stars": 918
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HermitCore",
-          "description": "A C-based, lightweight unikernel project from Aachen University.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2021-11-05T09:26:51Z",
-            "owner": "hermit-os",
-            "repo": "libhermit",
-            "stars": 226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EbbRT",
-          "description": "Boston University unikernel research project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-07-23T17:13:04Z",
-            "owner": "SESA",
-            "repo": "EbbRT",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nautilus",
-          "description": "Aerokernel from Sandia National Laboratories, supporting bare metal x86_64 and Xeon Phi.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-05-11T17:19:20Z",
-            "owner": "HExSA-Lab",
-            "repo": "nautilus",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "unicycle",
-          "description": "Unikernel application framework developed in C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-06-01T03:13:47Z",
-            "owner": "libunicycle",
-            "repo": "unicycle",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JML",
-          "description": "Proof of concept for a minimal web server unikernel implementing its own language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-05-23T14:47:56Z",
-            "owner": "yesco",
-            "repo": "jml",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Generic"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -229,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55632099,
             "language": "Go",
             "last_commit": "2023-04-27T07:13:23Z",
             "owner": "solo-io",
@@ -243,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47781176,
             "language": "C",
             "last_commit": "2026-08-18T21:02:27Z",
             "owner": "Solo5",
@@ -257,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96707511,
             "language": "OCaml",
             "last_commit": "2026-08-15T08:08:33Z",
             "owner": "robur-coop",
@@ -266,16 +287,12 @@
         }
       ],
       "title": "Tools"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:54:45.315Z",
+    "last_updated": "2026-08-19T12:56:54.416Z",
     "original_repository": "uniqernel/awesome-unikernels",
+    "original_repository_id": 243627990,
     "original_repository_sha": "33bee94ee62fa63fe1c361385e4ed63da970a2e0",
     "enhanced_repository": "enhansome/enhansome-unikernels",
     "enhanced_repository_description": null,
