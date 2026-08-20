@@ -151,7 +151,7 @@
                 "last_commit": "2026-06-12T19:06:32Z",
                 "owner": "ReturnInfinity",
                 "repo": "BareMetal",
-                "stars": 918
+                "stars": 919
               }
             },
             {
@@ -252,7 +252,7 @@
             "last_commit": "2023-04-27T07:13:23Z",
             "owner": "solo-io",
             "repo": "unik",
-            "stars": 2820
+            "stars": 2821
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:56:54.416Z",
+    "last_updated": "2026-08-20T04:56:37.729Z",
     "original_repository": "uniqernel/awesome-unikernels",
     "original_repository_id": 243627990,
     "original_repository_sha": "33bee94ee62fa63fe1c361385e4ed63da970a2e0",
