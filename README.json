@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-09T06:01:27Z",
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3180
+                "stars": 3182
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-05-15T07:52:49Z",
                 "owner": "includeos",
                 "repo": "IncludeOS",
-                "stars": 5245
+                "stars": 5244
               }
             },
             {
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-15T08:08:33Z",
             "owner": "robur-coop",
             "repo": "albatross",
-            "stars": 167
+            "stars": 166
           }
         }
       ],
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:56:37.729Z",
+    "last_updated": "2026-08-21T04:57:06.845Z",
     "original_repository": "uniqernel/awesome-unikernels",
     "original_repository_id": 243627990,
     "original_repository_sha": "33bee94ee62fa63fe1c361385e4ed63da970a2e0",

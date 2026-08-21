@@ -14,19 +14,19 @@
 
 ## Introduction
 
-* [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels) ⭐ 644 | 🐛 3 | 🌐 C++ | 📅 2022-02-16 - Introductory white paper maintained by CETIC engineers.
+* [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels) ⭐ 643 | 🐛 3 | 🌐 C++ | 📅 2022-02-16 - Introductory white paper maintained by CETIC engineers.
 
 ## Projects
 
 ### Linux Binary Compatible
 
-* [Nanos](https://github.com/nanovms/nanos) ⭐ 3,180 | 🐛 79 | 🌐 C | 📅 2026-08-09 - Linux binary compatible unikernel focused on security.
+* [Nanos](https://github.com/nanovms/nanos) ⭐ 3,182 | 🐛 81 | 🌐 C | 📅 2026-08-09 - Linux binary compatible unikernel focused on security.
 * [HermiTux](https://github.com/ssrg-vt/hermitux) ⭐ 398 | 🐛 16 | 🌐 C | 📅 2024-08-13 - Research project from Virginia Tech, demonstrating advanced optimizations.
 * [OSv](http://osv.io) - Modular unikernel able to execute unmodified Linux binaries, developed in C++.
 
 ### Language oriented
 
-* [IncludeOS](https://github.com/includeos/IncludeOS) ⭐ 5,245 | 🐛 108 | 🌐 C++ | 📅 2026-05-15 - Feature rich unikernel development library for C++.
+* [IncludeOS](https://github.com/includeos/IncludeOS) ⭐ 5,244 | 🐛 108 | 🌐 C++ | 📅 2026-05-15 - Feature rich unikernel development library for C++.
 * [LING](https://github.com/cloudozer/ling) ⭐ 824 | 🐛 92 | 🌐 C | 📅 2022-04-17 - Erlang/Elixir unikernel development toolkit targeting Xen.
 * [Ultibo Core](https://github.com/ultibohub/Core) ⭐ 185 | 🐛 2 | 🌐 Pascal | 📅 2026-08-04 - Lazarus/FreePascal unikernel targeting Raspberry Pi as the runtime environment.
 * [rekernel](https://github.com/imbsky/rekernel) ⭐ 30 | 🐛 0 | 🌐 Makefile | 📅 2020-04-10 - Minimal setup for developing unikernels in ReasonML.
@@ -62,7 +62,7 @@
 
 * [UniK](https://github.com/solo-io/unik) ⭐ 2,821 | 🐛 51 | 🌐 Go | 📅 2023-04-27 - Unikernel compiler supporting a Firecracker, rump kernels, OSv, IncludeOS and MirageOS.
 * [Solo5](https://github.com/Solo5/solo5) ⭐ 985 | 🐛 41 | 🌐 C | 📅 2026-08-18 - Middle-ware interfacing unikernels with the host systems.
-* [Albatross](https://github.com/hannesm/albatross) ⭐ 167 | 🐛 15 | 🌐 OCaml | 📅 2026-08-15 - MigrageOS unikernel orchestration, via Solo5.
+* [Albatross](https://github.com/hannesm/albatross) ⭐ 166 | 🐛 15 | 🌐 OCaml | 📅 2026-08-15 - MigrageOS unikernel orchestration, via Solo5.
 * [OPS](https://ops.city) - Orchestration tool for building and deploying Nanos based images.
 * [Capstan](http://osv.io/capstan) - Orchestration tool for packaging and running OSv based images.
 
@@ -72,4 +72,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
