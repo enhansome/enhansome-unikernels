@@ -54,7 +54,7 @@
                 "last_commit": "2026-05-15T07:52:49Z",
                 "owner": "includeos",
                 "repo": "IncludeOS",
-                "stars": 5244
+                "stars": 5245
               }
             },
             {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-18T21:02:27Z",
             "owner": "Solo5",
             "repo": "solo5",
-            "stars": 985
+            "stars": 986
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:57:06.845Z",
+    "last_updated": "2026-08-22T04:52:39.440Z",
     "original_repository": "uniqernel/awesome-unikernels",
     "original_repository_id": 243627990,
     "original_repository_sha": "33bee94ee62fa63fe1c361385e4ed63da970a2e0",
