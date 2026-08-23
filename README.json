@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 115159616,
                 "language": "C",
-                "last_commit": "2026-08-09T06:01:27Z",
+                "last_commit": "2026-08-22T18:43:33Z",
                 "owner": "nanovms",
                 "repo": "nanos",
                 "stars": 3182
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:52:39.440Z",
+    "last_updated": "2026-08-23T04:54:32.297Z",
     "original_repository": "uniqernel/awesome-unikernels",
     "original_repository_id": 243627990,
     "original_repository_sha": "33bee94ee62fa63fe1c361385e4ed63da970a2e0",
