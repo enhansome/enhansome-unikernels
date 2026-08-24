@@ -233,6 +233,28 @@
           "description": null,
           "node_type": "group",
           "title": "Generic"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Graphene",
+              "description": "Library OS optimized for Intel SGX.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 18259989,
+                "language": "C",
+                "last_commit": "2021-10-06T14:00:51Z",
+                "owner": "gramineproject",
+                "repo": "graphene",
+                "stars": 783
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Unikernel-like"
         }
       ],
       "title": "Projects"
@@ -290,7 +312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:04:42.228Z",
+    "last_updated": "2026-08-24T14:50:47.987Z",
     "original_repository": "uniqernel/awesome-unikernels",
     "original_repository_id": 243627990,
     "original_repository_sha": "33bee94ee62fa63fe1c361385e4ed63da970a2e0",

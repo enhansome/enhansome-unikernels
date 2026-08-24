@@ -55,8 +55,8 @@
 
 ### Unikernel-like
 
-* [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
 * [Graphene](https://github.com/oscarlab/graphene) ⚠️ Archived - Library OS optimized for Intel SGX.
+* [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
 
 ## Tools
 
