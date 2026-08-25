@@ -20,13 +20,13 @@
 
 ### Linux Binary Compatible
 
-* [Nanos](https://github.com/nanovms/nanos) ⭐ 3,183 | 🐛 81 | 🌐 C | 📅 2026-08-22 - Linux binary compatible unikernel focused on security.
+* [Nanos](https://github.com/nanovms/nanos) ⭐ 3,184 | 🐛 81 | 🌐 C | 📅 2026-08-22 - Linux binary compatible unikernel focused on security.
 * [HermiTux](https://github.com/ssrg-vt/hermitux) ⭐ 398 | 🐛 16 | 🌐 C | 📅 2024-08-13 - Research project from Virginia Tech, demonstrating advanced optimizations.
 * [OSv](http://osv.io) - Modular unikernel able to execute unmodified Linux binaries, developed in C++.
 
 ### Language oriented
 
-* [IncludeOS](https://github.com/includeos/IncludeOS) ⭐ 5,246 | 🐛 108 | 🌐 C++ | 📅 2026-05-15 - Feature rich unikernel development library for C++.
+* [IncludeOS](https://github.com/includeos/IncludeOS) ⭐ 5,247 | 🐛 108 | 🌐 C++ | 📅 2026-05-15 - Feature rich unikernel development library for C++.
 * [LING](https://github.com/cloudozer/ling) ⭐ 824 | 🐛 92 | 🌐 C | 📅 2022-04-17 - Erlang/Elixir unikernel development toolkit targeting Xen.
 * [Ultibo Core](https://github.com/ultibohub/Core) ⭐ 185 | 🐛 2 | 🌐 Pascal | 📅 2026-08-04 - Lazarus/FreePascal unikernel targeting Raspberry Pi as the runtime environment.
 * [rekernel](https://github.com/imbsky/rekernel) ⭐ 30 | 🐛 0 | 🌐 Makefile | 📅 2020-04-10 - Minimal setup for developing unikernels in ReasonML.
@@ -39,7 +39,7 @@
 
 ### Generic
 
-* [BareMetal](https://github.com/ReturnInfinity/BareMetal) ⭐ 919 | 🐛 1 | 🌐 Assembly | 📅 2026-06-12 - Self described as an exokernel, it can be used as the starting point for unikernel development.
+* [BareMetal](https://github.com/ReturnInfinity/BareMetal) ⭐ 920 | 🐛 1 | 🌐 Assembly | 📅 2026-06-12 - Self described as an exokernel, it can be used as the starting point for unikernel development.
 * [HermitCore](https://github.com/hermitcore/libhermit) ⚠️ Archived - A C-based, lightweight unikernel project from Aachen University.
 * [EbbRT](https://github.com/SESA/EbbRT) ⭐ 76 | 🐛 8 | 🌐 C | 📅 2024-07-23 - Boston University unikernel research project.
 * [Nautilus](https://github.com/HExSA-Lab/nautilus) ⭐ 50 | 🐛 8 | 🌐 C | 📅 2022-05-11 - Aerokernel from Sandia National Laboratories, supporting bare metal x86\_64 and Xeon Phi.
@@ -72,4 +72,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
