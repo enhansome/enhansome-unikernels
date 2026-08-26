@@ -274,7 +274,7 @@
             "last_commit": "2023-04-27T07:13:23Z",
             "owner": "solo-io",
             "repo": "unik",
-            "stars": 2821
+            "stars": 2822
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-08-15T08:08:33Z",
             "owner": "robur-coop",
             "repo": "albatross",
-            "stars": 166
+            "stars": 167
           }
         }
       ],
@@ -312,7 +312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:41:05.057Z",
+    "last_updated": "2026-08-26T04:58:05.763Z",
     "original_repository": "uniqernel/awesome-unikernels",
     "original_repository_id": 243627990,
     "original_repository_sha": "33bee94ee62fa63fe1c361385e4ed63da970a2e0",
