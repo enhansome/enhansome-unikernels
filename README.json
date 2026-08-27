@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-22T18:43:33Z",
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3184
+                "stars": 3186
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2026-06-12T19:06:32Z",
                 "owner": "ReturnInfinity",
                 "repo": "BareMetal",
-                "stars": 920
+                "stars": 921
               }
             },
             {
@@ -286,7 +286,7 @@
             "archived": false,
             "id": 47781176,
             "language": "C",
-            "last_commit": "2026-08-18T21:02:27Z",
+            "last_commit": "2026-08-26T11:32:20Z",
             "owner": "Solo5",
             "repo": "solo5",
             "stars": 986
@@ -312,9 +312,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:58:05.763Z",
-    "original_repository": "uniqernel/awesome-unikernels",
-    "original_repository_id": 243627990,
+    "last_updated": "2026-08-27T12:07:18.554Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 243627990,
+      "language": null,
+      "last_commit": "2020-03-28T19:13:34Z",
+      "owner": "uniqernel",
+      "repo": "awesome-unikernels",
+      "stars": 53
+    },
     "original_repository_sha": "33bee94ee62fa63fe1c361385e4ed63da970a2e0",
     "enhanced_repository": "enhansome/enhansome-unikernels",
     "enhanced_repository_description": null,
