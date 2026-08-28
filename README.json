@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-22T18:43:33Z",
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3186
-              }
+                "stars": 3187
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "ssrg-vt",
                 "repo": "hermitux",
                 "stars": 398
-              }
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "includeos",
                 "repo": "IncludeOS",
                 "stars": 5247
-              }
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "cloudozer",
                 "repo": "ling",
                 "stars": 824
-              }
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             },
             {
               "node_type": "item",
@@ -84,8 +88,9 @@
                 "last_commit": "2026-08-04T08:16:24Z",
                 "owner": "ultibohub",
                 "repo": "Core",
-                "stars": 185
-              }
+                "stars": 186
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "smorimoto",
                 "repo": "rekernel",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "pmuens",
                 "repo": "union",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "gmodena",
                 "repo": "binaryno",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             }
           ],
           "description": null,
@@ -152,7 +160,8 @@
                 "owner": "ReturnInfinity",
                 "repo": "BareMetal",
                 "stars": 921
-              }
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "hermit-os",
                 "repo": "libhermit",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "SESA",
                 "repo": "EbbRT",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "HExSA-Lab",
                 "repo": "nautilus",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "libunicycle",
                 "repo": "unicycle",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "yesco",
                 "repo": "jml",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             }
           ],
           "description": null,
@@ -249,7 +263,8 @@
                 "owner": "gramineproject",
                 "repo": "graphene",
                 "stars": 783
-              }
+              },
+              "first_seen": "2026-08-28T16:41:36.084Z"
             }
           ],
           "description": null,
@@ -275,7 +290,8 @@
             "owner": "solo-io",
             "repo": "unik",
             "stars": 2822
-          }
+          },
+          "first_seen": "2026-08-28T16:41:36.084Z"
         },
         {
           "node_type": "item",
@@ -286,11 +302,12 @@
             "archived": false,
             "id": 47781176,
             "language": "C",
-            "last_commit": "2026-08-26T11:32:20Z",
+            "last_commit": "2026-08-28T15:04:49Z",
             "owner": "Solo5",
             "repo": "solo5",
-            "stars": 987
-          }
+            "stars": 988
+          },
+          "first_seen": "2026-08-28T16:41:36.084Z"
         },
         {
           "node_type": "item",
@@ -305,14 +322,15 @@
             "owner": "robur-coop",
             "repo": "albatross",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T16:41:36.084Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:17:59.347Z",
+    "last_updated": "2026-08-28T16:41:36.084Z",
     "original_repository_info": {
       "archived": false,
       "id": 243627990,
