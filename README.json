@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A kernel designed to run one and only one application in a virtualized environment",
+                "homepage": "https://nanos.org",
                 "id": 115159616,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-22T18:43:33Z",
+                "open_issues": 81,
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3187
+                "stars": 3187,
+                "topics": [
+                  "edge",
+                  "microservice",
+                  "operating-systems",
+                  "osdev",
+                  "sandbox",
+                  "security",
+                  "unikernel",
+                  "unikernels",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             },
@@ -28,12 +43,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A binary-compatible unikernel",
+                "homepage": "https://ssrg-vt.github.io/hermitux/",
                 "id": 106843619,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-08-13T16:27:00Z",
+                "open_issues": 16,
                 "owner": "ssrg-vt",
                 "repo": "hermitux",
-                "stars": 398
+                "stars": 398,
+                "topics": [
+                  "unikernel"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             }
@@ -51,12 +73,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal, resource efficient unikernel for cloud services",
+                "homepage": "https://includeos.github.io/",
                 "id": 21562567,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-15T07:52:49Z",
+                "open_issues": 108,
                 "owner": "includeos",
                 "repo": "IncludeOS",
-                "stars": 5247
+                "stars": 5247,
+                "topics": [
+                  "cpp",
+                  "operating-system",
+                  "unikernel",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             },
@@ -67,12 +99,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Erlang on Xen",
+                "homepage": "http://erlangonxen.org/",
                 "id": 19314469,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-17T15:00:18Z",
+                "open_issues": 92,
                 "owner": "cloudozer",
                 "repo": "ling",
-                "stars": 824
+                "stars": 824,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             },
@@ -83,12 +120,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ultibo Core",
+                "homepage": "https://ultibo.org/",
                 "id": 50970731,
                 "language": "Pascal",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-04T08:16:24Z",
+                "open_issues": 2,
                 "owner": "ultibohub",
                 "repo": "Core",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "freepascal",
+                  "kernel",
+                  "raspberry-pi",
+                  "raspberrypi",
+                  "ultibo",
+                  "unikernel"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             },
@@ -99,12 +148,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal setup for writing Unikernels in ReasonML",
+                "homepage": null,
                 "id": 235799956,
                 "language": "Makefile",
+                "license": "Apache-2.0",
                 "last_commit": "2020-04-10T04:15:46Z",
+                "open_issues": 0,
                 "owner": "smorimoto",
                 "repo": "rekernel",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "mirageos",
+                  "ocaml",
+                  "reason",
+                  "reasonml",
+                  "unikernel"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             },
@@ -115,12 +175,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "POSIX compliant unikernel written in Rust.",
+                "homepage": null,
                 "id": 133709462,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2018-05-19T21:00:42Z",
+                "open_issues": 9,
                 "owner": "pmuens",
                 "repo": "union",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "kernel",
+                  "posix",
+                  "rust",
+                  "unikernel"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             },
@@ -131,12 +201,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust binary running on bare metal",
+                "homepage": null,
                 "id": 242184159,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2020-02-23T22:05:51Z",
+                "open_issues": 0,
                 "owner": "gmodena",
                 "repo": "binaryno",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "baremetal",
+                  "rust",
+                  "rust-embedded",
+                  "unikernel"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             }
@@ -154,12 +234,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very minimal, resource efficient exo-kernel",
+                "homepage": "http://www.returninfinity.com",
                 "id": 22650819,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2026-06-12T19:06:32Z",
+                "open_issues": 1,
                 "owner": "ReturnInfinity",
                 "repo": "BareMetal",
-                "stars": 921
+                "stars": 921,
+                "topics": [
+                  "assembly",
+                  "baremetal",
+                  "baremetal-kernel",
+                  "kernel"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             },
@@ -170,12 +260,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "HermitCore: A C-based, lightweight unikernel",
+                "homepage": "https://hermitcore.org",
                 "id": 35319633,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-11-05T09:26:51Z",
+                "open_issues": 15,
                 "owner": "hermit-os",
                 "repo": "libhermit",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "cloud-computing",
+                  "high-performance-computing",
+                  "kernel",
+                  "multi-kernel",
+                  "operating-system",
+                  "osdev",
+                  "unikernel",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             },
@@ -186,12 +290,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EbbRT: elastic building block runtime",
+                "homepage": null,
                 "id": 10059560,
                 "language": "C",
+                "license": "BSL-1.0",
                 "last_commit": "2024-07-23T17:13:04Z",
+                "open_issues": 8,
                 "owner": "SESA",
                 "repo": "EbbRT",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "libraryos",
+                  "unikernel"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             },
@@ -202,12 +314,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nautilus Aerokernel",
+                "homepage": null,
                 "id": 143364231,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-11T17:19:20Z",
+                "open_issues": 8,
                 "owner": "HExSA-Lab",
                 "repo": "nautilus",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "aerokernel",
+                  "hpc",
+                  "hrt",
+                  "hvm",
+                  "hybrid-runtimes",
+                  "kernel",
+                  "nautilus",
+                  "operating-system",
+                  "os",
+                  "supercomputing",
+                  "unikernel",
+                  "virtual-machine"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             },
@@ -218,12 +348,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unikernel applications framework",
+                "homepage": null,
                 "id": 179116612,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-06-01T03:13:47Z",
+                "open_issues": 0,
                 "owner": "libunicycle",
                 "repo": "unicycle",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "low-latency",
+                  "unikernel"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             },
@@ -234,12 +372,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jml - a useful web/cloud minimal unikernel distributed operating system",
+                "homepage": null,
                 "id": 55430096,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-05-23T14:47:56Z",
+                "open_issues": 0,
                 "owner": "yesco",
                 "repo": "jml",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "eval",
+                  "functional",
+                  "functional-language",
+                  "html",
+                  "lambda-calculus",
+                  "language",
+                  "operating-system",
+                  "unikernel",
+                  "urbit",
+                  "web",
+                  "webserver"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             }
@@ -257,12 +412,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Graphene / Graphene-SGX - a library OS for Linux multi-process applications, with Intel SGX support",
+                "homepage": "https://grapheneproject.io",
                 "id": 18259989,
                 "language": "C",
+                "license": "LGPL-3.0",
                 "last_commit": "2021-10-06T14:00:51Z",
+                "open_issues": 70,
                 "owner": "gramineproject",
                 "repo": "graphene",
-                "stars": 783
+                "stars": 783,
+                "topics": [
+                  "compatibility",
+                  "libraryos",
+                  "linux",
+                  "sgx",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-28T16:41:36.084Z"
             }
@@ -284,12 +450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Unikernel & MicroVM Compilation and Deployment Platform",
+            "homepage": null,
             "id": 55632099,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-27T07:13:23Z",
+            "open_issues": 51,
             "owner": "solo-io",
             "repo": "unik",
-            "stars": 2822
+            "stars": 2822,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:36.084Z"
         },
@@ -300,12 +471,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sandboxed execution environment for unikernels",
+            "homepage": null,
             "id": 47781176,
             "language": "C",
+            "license": "ISC",
             "last_commit": "2026-08-28T15:04:49Z",
+            "open_issues": 38,
             "owner": "Solo5",
             "repo": "solo5",
-            "stars": 988
+            "stars": 988,
+            "topics": [
+              "freebsd",
+              "hypervisor",
+              "kvm",
+              "mirageos",
+              "openbsd",
+              "unikernel"
+            ]
           },
           "first_seen": "2026-08-28T16:41:36.084Z"
         },
@@ -316,12 +499,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Albatross: orchestrate and manage MirageOS unikernels with Solo5",
+            "homepage": null,
             "id": 96707511,
             "language": "OCaml",
+            "license": "ISC",
             "last_commit": "2026-08-15T08:08:33Z",
+            "open_issues": 17,
             "owner": "robur-coop",
             "repo": "albatross",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "deployment",
+              "mirageos",
+              "ocaml",
+              "orchestration",
+              "provisioning",
+              "security",
+              "unikernel",
+              "virtual-machine"
+            ]
           },
           "first_seen": "2026-08-28T16:41:36.084Z"
         }
@@ -330,15 +527,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:41:36.084Z",
+    "last_updated": "2026-08-29T05:04:32.000Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":zap: Curated list of unikernel resources",
+      "homepage": null,
       "id": 243627990,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2020-03-28T19:13:34Z",
+      "open_issues": 1,
       "owner": "uniqernel",
       "repo": "awesome-unikernels",
-      "stars": 53
+      "stars": 53,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "kvm",
+        "osdev",
+        "unikernel",
+        "unikernels",
+        "virtualization",
+        "xen"
+      ]
     },
     "original_repository_sha": "33bee94ee62fa63fe1c361385e4ed63da970a2e0",
     "enhanced_repository": "enhansome/enhansome-unikernels",
