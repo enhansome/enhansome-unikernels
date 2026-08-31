@@ -17,11 +17,11 @@
                 "id": 115159616,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T17:38:35Z",
-                "open_issues": 86,
+                "last_commit": "2026-08-30T20:03:43Z",
+                "open_issues": 84,
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3187,
+                "stars": 3189,
                 "topics": [
                   "edge",
                   "microservice",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:58:13.502Z",
+    "last_updated": "2026-08-31T10:55:03.281Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
