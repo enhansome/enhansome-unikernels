@@ -82,7 +82,7 @@
                 "open_issues": 108,
                 "owner": "includeos",
                 "repo": "IncludeOS",
-                "stars": 5248,
+                "stars": 5247,
                 "topics": [
                   "cpp",
                   "operating-system",
@@ -323,7 +323,7 @@
                 "open_issues": 8,
                 "owner": "HExSA-Lab",
                 "repo": "nautilus",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "aerokernel",
                   "hpc",
@@ -480,7 +480,7 @@
             "open_issues": 38,
             "owner": "Solo5",
             "repo": "solo5",
-            "stars": 989,
+            "stars": 992,
             "topics": [
               "freebsd",
               "hypervisor",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:48:51.863Z",
+    "last_updated": "2026-09-03T08:58:01.957Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
