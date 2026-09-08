@@ -82,7 +82,7 @@
                 "open_issues": 108,
                 "owner": "includeos",
                 "repo": "IncludeOS",
-                "stars": 5247,
+                "stars": 5248,
                 "topics": [
                   "cpp",
                   "operating-system",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T09:24:54.587Z",
+    "last_updated": "2026-09-08T08:54:06.677Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
