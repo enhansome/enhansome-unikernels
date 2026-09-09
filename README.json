@@ -476,11 +476,11 @@
             "id": 47781176,
             "language": "C",
             "license": "ISC",
-            "last_commit": "2026-08-28T15:04:49Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-08T10:42:01Z",
+            "open_issues": 42,
             "owner": "Solo5",
             "repo": "solo5",
-            "stars": 993,
+            "stars": 994,
             "topics": [
               "freebsd",
               "hypervisor",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:54:06.677Z",
+    "last_updated": "2026-09-09T08:59:49.294Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
