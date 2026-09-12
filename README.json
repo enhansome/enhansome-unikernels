@@ -21,7 +21,7 @@
                 "open_issues": 86,
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3191,
+                "stars": 3192,
                 "topics": [
                   "edge",
                   "microservice",
@@ -504,8 +504,8 @@
             "id": 96707511,
             "language": "OCaml",
             "license": "ISC",
-            "last_commit": "2026-08-15T08:08:33Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-11T14:32:09Z",
+            "open_issues": 18,
             "owner": "robur-coop",
             "repo": "albatross",
             "stars": 167,
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:56:55.954Z",
+    "last_updated": "2026-09-12T08:39:59.646Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
