@@ -504,8 +504,8 @@
             "id": 96707511,
             "language": "OCaml",
             "license": "ISC",
-            "last_commit": "2026-09-11T14:32:09Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-13T19:38:35Z",
+            "open_issues": 17,
             "owner": "robur-coop",
             "repo": "albatross",
             "stars": 167,
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:35:31.340Z",
+    "last_updated": "2026-09-14T09:55:53.429Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
