@@ -21,7 +21,7 @@
                 "open_issues": 88,
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3193,
+                "stars": 3194,
                 "topics": [
                   "edge",
                   "microservice",
@@ -243,7 +243,7 @@
                 "open_issues": 1,
                 "owner": "ReturnInfinity",
                 "repo": "BareMetal",
-                "stars": 922,
+                "stars": 923,
                 "topics": [
                   "assembly",
                   "baremetal",
@@ -504,8 +504,8 @@
             "id": 96707511,
             "language": "OCaml",
             "license": "ISC",
-            "last_commit": "2026-09-14T11:19:25Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-15T20:17:47Z",
+            "open_issues": 19,
             "owner": "robur-coop",
             "repo": "albatross",
             "stars": 167,
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:27:48.140Z",
+    "last_updated": "2026-09-16T09:20:12.378Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
