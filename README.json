@@ -476,8 +476,8 @@
             "id": 47781176,
             "language": "C",
             "license": "ISC",
-            "last_commit": "2026-09-17T08:45:54Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-17T11:09:45Z",
+            "open_issues": 45,
             "owner": "Solo5",
             "repo": "solo5",
             "stars": 994,
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:29:01.676Z",
+    "last_updated": "2026-09-18T09:02:20.199Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
