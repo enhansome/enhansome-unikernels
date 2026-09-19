@@ -17,8 +17,8 @@
                 "id": 115159616,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T20:03:43Z",
-                "open_issues": 88,
+                "last_commit": "2026-09-19T07:38:23Z",
+                "open_issues": 87,
                 "owner": "nanovms",
                 "repo": "nanos",
                 "stars": 3194,
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:02:20.199Z",
+    "last_updated": "2026-09-19T08:50:03.610Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
