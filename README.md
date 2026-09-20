@@ -26,7 +26,7 @@
 
 ### Language oriented
 
-* [IncludeOS](https://github.com/includeos/IncludeOS) ⭐ 5,246 | 🐛 108 | 🌐 C++ | 📅 2026-05-15 - Feature rich unikernel development library for C++.
+* [IncludeOS](https://github.com/includeos/IncludeOS) ⭐ 5,245 | 🐛 108 | 🌐 C++ | 📅 2026-05-15 - Feature rich unikernel development library for C++.
 * [LING](https://github.com/cloudozer/ling) ⭐ 826 | 🐛 92 | 🌐 C | 📅 2022-04-17 - Erlang/Elixir unikernel development toolkit targeting Xen.
 * [Ultibo Core](https://github.com/ultibohub/Core) ⭐ 186 | 🐛 2 | 🌐 Pascal | 📅 2026-08-04 - Lazarus/FreePascal unikernel targeting Raspberry Pi as the runtime environment.
 * [rekernel](https://github.com/imbsky/rekernel) ⭐ 30 | 🐛 0 | 🌐 Makefile | 📅 2020-04-10 - Minimal setup for developing unikernels in ReasonML.
@@ -61,7 +61,7 @@
 ## Tools
 
 * [UniK](https://github.com/solo-io/unik) ⭐ 2,824 | 🐛 51 | 🌐 Go | 📅 2023-04-27 - Unikernel compiler supporting a Firecracker, rump kernels, OSv, IncludeOS and MirageOS.
-* [Solo5](https://github.com/Solo5/solo5) ⭐ 994 | 🐛 45 | 🌐 C | 📅 2026-09-17 - Middle-ware interfacing unikernels with the host systems.
+* [Solo5](https://github.com/Solo5/solo5) ⭐ 995 | 🐛 45 | 🌐 C | 📅 2026-09-19 - Middle-ware interfacing unikernels with the host systems.
 * [Albatross](https://github.com/hannesm/albatross) ⭐ 167 | 🐛 18 | 🌐 OCaml | 📅 2026-09-16 - MigrageOS unikernel orchestration, via Solo5.
 * [OPS](https://ops.city) - Orchestration tool for building and deploying Nanos based images.
 * [Capstan](http://osv.io/capstan) - Orchestration tool for packaging and running OSv based images.
@@ -72,4 +72,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
