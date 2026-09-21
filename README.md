@@ -26,8 +26,8 @@
 
 ### Language oriented
 
-* [IncludeOS](https://github.com/includeos/IncludeOS) ⭐ 5,245 | 🐛 108 | 🌐 C++ | 📅 2026-05-15 - Feature rich unikernel development library for C++.
-* [LING](https://github.com/cloudozer/ling) ⭐ 826 | 🐛 92 | 🌐 C | 📅 2022-04-17 - Erlang/Elixir unikernel development toolkit targeting Xen.
+* [IncludeOS](https://github.com/includeos/IncludeOS) ⭐ 5,246 | 🐛 108 | 🌐 C++ | 📅 2026-05-15 - Feature rich unikernel development library for C++.
+* [LING](https://github.com/cloudozer/ling) ⭐ 827 | 🐛 92 | 🌐 C | 📅 2022-04-17 - Erlang/Elixir unikernel development toolkit targeting Xen.
 * [Ultibo Core](https://github.com/ultibohub/Core) ⭐ 186 | 🐛 2 | 🌐 Pascal | 📅 2026-08-04 - Lazarus/FreePascal unikernel targeting Raspberry Pi as the runtime environment.
 * [rekernel](https://github.com/imbsky/rekernel) ⭐ 30 | 🐛 0 | 🌐 Makefile | 📅 2020-04-10 - Minimal setup for developing unikernels in ReasonML.
 * [Union](https://github.com/pmuens/union) ⭐ 1 | 🐛 9 | 🌐 Assembly | 📅 2018-05-19 - POSIX compliant unikernel written in Rust.
@@ -39,7 +39,7 @@
 
 ### Generic
 
-* [BareMetal](https://github.com/ReturnInfinity/BareMetal) ⭐ 923 | 🐛 1 | 🌐 Assembly | 📅 2026-06-12 - Self described as an exokernel, it can be used as the starting point for unikernel development.
+* [BareMetal](https://github.com/ReturnInfinity/BareMetal) ⭐ 924 | 🐛 1 | 🌐 Assembly | 📅 2026-06-12 - Self described as an exokernel, it can be used as the starting point for unikernel development.
 * [HermitCore](https://github.com/hermitcore/libhermit) ⚠️ Archived - A C-based, lightweight unikernel project from Aachen University.
 * [EbbRT](https://github.com/SESA/EbbRT) ⭐ 76 | 🐛 8 | 🌐 C | 📅 2024-07-23 - Boston University unikernel research project.
 * [Nautilus](https://github.com/HExSA-Lab/nautilus) ⭐ 51 | 🐛 8 | 🌐 C | 📅 2022-05-11 - Aerokernel from Sandia National Laboratories, supporting bare metal x86\_64 and Xeon Phi.
@@ -60,8 +60,8 @@
 
 ## Tools
 
-* [UniK](https://github.com/solo-io/unik) ⭐ 2,824 | 🐛 51 | 🌐 Go | 📅 2023-04-27 - Unikernel compiler supporting a Firecracker, rump kernels, OSv, IncludeOS and MirageOS.
-* [Solo5](https://github.com/Solo5/solo5) ⭐ 995 | 🐛 45 | 🌐 C | 📅 2026-09-19 - Middle-ware interfacing unikernels with the host systems.
+* [UniK](https://github.com/solo-io/unik) ⭐ 2,825 | 🐛 51 | 🌐 Go | 📅 2023-04-27 - Unikernel compiler supporting a Firecracker, rump kernels, OSv, IncludeOS and MirageOS.
+* [Solo5](https://github.com/Solo5/solo5) ⭐ 998 | 🐛 45 | 🌐 C | 📅 2026-09-19 - Middle-ware interfacing unikernels with the host systems.
 * [Albatross](https://github.com/hannesm/albatross) ⭐ 167 | 🐛 18 | 🌐 OCaml | 📅 2026-09-16 - MigrageOS unikernel orchestration, via Solo5.
 * [OPS](https://ops.city) - Orchestration tool for building and deploying Nanos based images.
 * [Capstan](http://osv.io/capstan) - Orchestration tool for packaging and running OSv based images.
@@ -72,4 +72,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
