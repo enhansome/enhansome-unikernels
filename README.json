@@ -17,11 +17,11 @@
                 "id": 115159616,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T07:38:23Z",
-                "open_issues": 87,
+                "last_commit": "2026-09-21T23:25:22Z",
+                "open_issues": 88,
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3194,
+                "stars": 3193,
                 "topics": [
                   "edge",
                   "microservice",
@@ -243,7 +243,7 @@
                 "open_issues": 1,
                 "owner": "ReturnInfinity",
                 "repo": "BareMetal",
-                "stars": 924,
+                "stars": 925,
                 "topics": [
                   "assembly",
                   "baremetal",
@@ -459,7 +459,7 @@
             "open_issues": 51,
             "owner": "solo-io",
             "repo": "unik",
-            "stars": 2825,
+            "stars": 2826,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:36.084Z"
@@ -477,10 +477,10 @@
             "language": "C",
             "license": "ISC",
             "last_commit": "2026-09-19T14:55:29Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "Solo5",
             "repo": "solo5",
-            "stars": 998,
+            "stars": 999,
             "topics": [
               "freebsd",
               "hypervisor",
@@ -504,7 +504,7 @@
             "id": 96707511,
             "language": "OCaml",
             "license": "ISC",
-            "last_commit": "2026-09-16T11:28:11Z",
+            "last_commit": "2026-09-21T18:44:22Z",
             "open_issues": 18,
             "owner": "robur-coop",
             "repo": "albatross",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T09:59:40.189Z",
+    "last_updated": "2026-09-22T09:20:18.928Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
