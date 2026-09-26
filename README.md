@@ -14,13 +14,13 @@
 
 ## Introduction
 
-* [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels) ⭐ 643 | 🐛 3 | 🌐 C++ | 📅 2022-02-16 - Introductory white paper maintained by CETIC engineers.
+* [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels) ⭐ 644 | 🐛 3 | 🌐 C++ | 📅 2022-02-16 - Introductory white paper maintained by CETIC engineers.
 
 ## Projects
 
 ### Linux Binary Compatible
 
-* [Nanos](https://github.com/nanovms/nanos) ⭐ 3,193 | 🐛 89 | 🌐 C | 📅 2026-09-21 - Linux binary compatible unikernel focused on security.
+* [Nanos](https://github.com/nanovms/nanos) ⭐ 3,193 | 🐛 88 | 🌐 C | 📅 2026-09-21 - Linux binary compatible unikernel focused on security.
 * [HermiTux](https://github.com/ssrg-vt/hermitux) ⭐ 398 | 🐛 16 | 🌐 C | 📅 2024-08-13 - Research project from Virginia Tech, demonstrating advanced optimizations.
 * [OSv](http://osv.io) - Modular unikernel able to execute unmodified Linux binaries, developed in C++.
 
@@ -39,7 +39,7 @@
 
 ### Generic
 
-* [BareMetal](https://github.com/ReturnInfinity/BareMetal) ⭐ 925 | 🐛 1 | 🌐 Assembly | 📅 2026-06-12 - Self described as an exokernel, it can be used as the starting point for unikernel development.
+* [BareMetal](https://github.com/ReturnInfinity/BareMetal) ⭐ 926 | 🐛 1 | 🌐 Assembly | 📅 2026-06-12 - Self described as an exokernel, it can be used as the starting point for unikernel development.
 * [HermitCore](https://github.com/hermitcore/libhermit) ⚠️ Archived - A C-based, lightweight unikernel project from Aachen University.
 * [EbbRT](https://github.com/SESA/EbbRT) ⭐ 76 | 🐛 8 | 🌐 C | 📅 2024-07-23 - Boston University unikernel research project.
 * [Nautilus](https://github.com/HExSA-Lab/nautilus) ⭐ 51 | 🐛 8 | 🌐 C | 📅 2022-05-11 - Aerokernel from Sandia National Laboratories, supporting bare metal x86\_64 and Xeon Phi.
@@ -72,4 +72,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
