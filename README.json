@@ -21,7 +21,7 @@
                 "open_issues": 88,
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3193,
+                "stars": 3194,
                 "topics": [
                   "edge",
                   "microservice",
@@ -243,7 +243,7 @@
                 "open_issues": 1,
                 "owner": "ReturnInfinity",
                 "repo": "BareMetal",
-                "stars": 926,
+                "stars": 929,
                 "topics": [
                   "assembly",
                   "baremetal",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T10:58:56.451Z",
+    "last_updated": "2026-09-29T10:44:05.764Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
