@@ -82,7 +82,7 @@
                 "open_issues": 108,
                 "owner": "includeos",
                 "repo": "IncludeOS",
-                "stars": 5246,
+                "stars": 5249,
                 "topics": [
                   "cpp",
                   "operating-system",
@@ -243,7 +243,7 @@
                 "open_issues": 1,
                 "owner": "ReturnInfinity",
                 "repo": "BareMetal",
-                "stars": 931,
+                "stars": 932,
                 "topics": [
                   "assembly",
                   "baremetal",
@@ -459,7 +459,7 @@
             "open_issues": 50,
             "owner": "solo-io",
             "repo": "unik",
-            "stars": 2826,
+            "stars": 2827,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:36.084Z"
@@ -477,10 +477,10 @@
             "language": "C",
             "license": "ISC",
             "last_commit": "2026-09-30T14:28:01Z",
-            "open_issues": 44,
+            "open_issues": 46,
             "owner": "Solo5",
             "repo": "solo5",
-            "stars": 1000,
+            "stars": 1001,
             "topics": [
               "freebsd",
               "hypervisor",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T10:59:45.174Z",
+    "last_updated": "2026-10-02T10:32:50.597Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
