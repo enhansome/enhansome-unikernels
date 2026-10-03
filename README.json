@@ -82,7 +82,7 @@
                 "open_issues": 108,
                 "owner": "includeos",
                 "repo": "IncludeOS",
-                "stars": 5249,
+                "stars": 5250,
                 "topics": [
                   "cpp",
                   "operating-system",
@@ -243,7 +243,7 @@
                 "open_issues": 1,
                 "owner": "ReturnInfinity",
                 "repo": "BareMetal",
-                "stars": 932,
+                "stars": 933,
                 "topics": [
                   "assembly",
                   "baremetal",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:32:50.597Z",
+    "last_updated": "2026-10-03T05:10:39.204Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
