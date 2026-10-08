@@ -14,7 +14,7 @@
 
 ## Introduction
 
-* [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels) ⭐ 644 | 🐛 3 | 🌐 C++ | 📅 2022-02-16 - Introductory white paper maintained by CETIC engineers.
+* [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels) ⭐ 645 | 🐛 3 | 🌐 C++ | 📅 2022-02-16 - Introductory white paper maintained by CETIC engineers.
 
 ## Projects
 
@@ -28,7 +28,7 @@
 
 * [IncludeOS](https://github.com/includeos/IncludeOS) ⭐ 5,251 | 🐛 108 | 🌐 C++ | 📅 2026-05-15 - Feature rich unikernel development library for C++.
 * [LING](https://github.com/cloudozer/ling) ⭐ 827 | 🐛 92 | 🌐 C | 📅 2022-04-17 - Erlang/Elixir unikernel development toolkit targeting Xen.
-* [Ultibo Core](https://github.com/ultibohub/Core) ⭐ 186 | 🐛 2 | 🌐 Pascal | 📅 2026-08-04 - Lazarus/FreePascal unikernel targeting Raspberry Pi as the runtime environment.
+* [Ultibo Core](https://github.com/ultibohub/Core) ⭐ 187 | 🐛 2 | 🌐 Pascal | 📅 2026-08-04 - Lazarus/FreePascal unikernel targeting Raspberry Pi as the runtime environment.
 * [rekernel](https://github.com/imbsky/rekernel) ⭐ 30 | 🐛 0 | 🌐 Makefile | 📅 2020-04-10 - Minimal setup for developing unikernels in ReasonML.
 * [Union](https://github.com/pmuens/union) ⭐ 1 | 🐛 9 | 🌐 Assembly | 📅 2018-05-19 - POSIX compliant unikernel written in Rust.
 * [binaryno](https://github.com/gmodena/binaryno) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2020-02-23 - Rust unikernel running on bare ARM CortexM hardware.
@@ -61,7 +61,7 @@
 ## Tools
 
 * [UniK](https://github.com/solo-io/unik) ⭐ 2,827 | 🐛 50 | 🌐 Go | 📅 2023-04-27 - Unikernel compiler supporting a Firecracker, rump kernels, OSv, IncludeOS and MirageOS.
-* [Solo5](https://github.com/Solo5/solo5) ⭐ 1,001 | 🐛 47 | 🌐 C | 📅 2026-09-30 - Middle-ware interfacing unikernels with the host systems.
+* [Solo5](https://github.com/Solo5/solo5) ⭐ 1,002 | 🐛 48 | 🌐 C | 📅 2026-09-30 - Middle-ware interfacing unikernels with the host systems.
 * [Albatross](https://github.com/hannesm/albatross) ⭐ 167 | 🐛 18 | 🌐 OCaml | 📅 2026-09-21 - MigrageOS unikernel orchestration, via Solo5.
 * [OPS](https://ops.city) - Orchestration tool for building and deploying Nanos based images.
 * [Capstan](http://osv.io/capstan) - Orchestration tool for packaging and running OSv based images.
@@ -72,4 +72,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
