@@ -459,7 +459,7 @@
             "open_issues": 50,
             "owner": "solo-io",
             "repo": "unik",
-            "stars": 2827,
+            "stars": 2829,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:36.084Z"
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:21:47.870Z",
+    "last_updated": "2026-10-10T10:39:14.373Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
