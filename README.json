@@ -17,8 +17,8 @@
                 "id": 115159616,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T23:25:22Z",
-                "open_issues": 89,
+                "last_commit": "2026-10-11T09:33:22Z",
+                "open_issues": 87,
                 "owner": "nanovms",
                 "repo": "nanos",
                 "stars": 3201,
@@ -243,7 +243,7 @@
                 "open_issues": 1,
                 "owner": "ReturnInfinity",
                 "repo": "BareMetal",
-                "stars": 934,
+                "stars": 935,
                 "topics": [
                   "assembly",
                   "baremetal",
@@ -323,7 +323,7 @@
                 "open_issues": 8,
                 "owner": "HExSA-Lab",
                 "repo": "nautilus",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "aerokernel",
                   "hpc",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:39:14.373Z",
+    "last_updated": "2026-10-11T10:51:49.752Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
