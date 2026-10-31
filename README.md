@@ -20,7 +20,7 @@
 
 ### Linux Binary Compatible
 
-* [Nanos](https://github.com/nanovms/nanos) ⭐ 3,218 | 🐛 87 | 🌐 C | 📅 2026-10-25 - Linux binary compatible unikernel focused on security.
+* [Nanos](https://github.com/nanovms/nanos) ⭐ 3,219 | 🐛 87 | 🌐 C | 📅 2026-10-25 - Linux binary compatible unikernel focused on security.
 * [HermiTux](https://github.com/ssrg-vt/hermitux) ⭐ 399 | 🐛 16 | 🌐 C | 📅 2026-10-21 - Research project from Virginia Tech, demonstrating advanced optimizations.
 * [OSv](http://osv.io) - Modular unikernel able to execute unmodified Linux binaries, developed in C++.
 
@@ -72,4 +72,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
