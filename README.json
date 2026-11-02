@@ -459,7 +459,7 @@
             "open_issues": 50,
             "owner": "solo-io",
             "repo": "unik",
-            "stars": 2826,
+            "stars": 2825,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:36.084Z"
@@ -477,7 +477,7 @@
             "language": "C",
             "license": "ISC",
             "last_commit": "2026-10-28T10:03:14Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "Solo5",
             "repo": "solo5",
             "stars": 1013,
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:19:23.782Z",
+    "last_updated": "2026-11-02T12:31:55.254Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",

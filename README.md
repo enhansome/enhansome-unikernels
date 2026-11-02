@@ -14,7 +14,7 @@
 
 ## Introduction
 
-* [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels) ⭐ 647 | 🐛 3 | 🌐 C++ | 📅 2022-02-16 - Introductory white paper maintained by CETIC engineers.
+* [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels) ⭐ 648 | 🐛 3 | 🌐 C++ | 📅 2022-02-16 - Introductory white paper maintained by CETIC engineers.
 
 ## Projects
 
@@ -60,8 +60,8 @@
 
 ## Tools
 
-* [UniK](https://github.com/solo-io/unik) ⭐ 2,826 | 🐛 50 | 🌐 Go | 📅 2023-04-27 - Unikernel compiler supporting a Firecracker, rump kernels, OSv, IncludeOS and MirageOS.
-* [Solo5](https://github.com/Solo5/solo5) ⭐ 1,013 | 🐛 42 | 🌐 C | 📅 2026-10-28 - Middle-ware interfacing unikernels with the host systems.
+* [UniK](https://github.com/solo-io/unik) ⭐ 2,825 | 🐛 50 | 🌐 Go | 📅 2023-04-27 - Unikernel compiler supporting a Firecracker, rump kernels, OSv, IncludeOS and MirageOS.
+* [Solo5](https://github.com/Solo5/solo5) ⭐ 1,013 | 🐛 43 | 🌐 C | 📅 2026-10-28 - Middle-ware interfacing unikernels with the host systems.
 * [Albatross](https://github.com/hannesm/albatross) ⭐ 171 | 🐛 18 | 🌐 OCaml | 📅 2026-09-21 - MigrageOS unikernel orchestration, via Solo5.
 * [OPS](https://ops.city) - Orchestration tool for building and deploying Nanos based images.
 * [Capstan](http://osv.io/capstan) - Orchestration tool for packaging and running OSv based images.
@@ -72,4 +72,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
