@@ -21,7 +21,7 @@
                 "open_issues": 84,
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3220,
+                "stars": 3221,
                 "topics": [
                   "edge",
                   "microservice",
@@ -480,7 +480,7 @@
             "open_issues": 43,
             "owner": "Solo5",
             "repo": "solo5",
-            "stars": 1013,
+            "stars": 1014,
             "topics": [
               "freebsd",
               "hypervisor",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T12:31:55.254Z",
+    "last_updated": "2026-11-03T11:59:15.839Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
