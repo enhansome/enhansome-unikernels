@@ -20,13 +20,13 @@
 
 ### Linux Binary Compatible
 
-* [Nanos](https://github.com/nanovms/nanos) ⭐ 3,221 | 🐛 89 | 🌐 C | 📅 2026-10-31 - Linux binary compatible unikernel focused on security.
+* [Nanos](https://github.com/nanovms/nanos) ⭐ 3,222 | 🐛 89 | 🌐 C | 📅 2026-10-31 - Linux binary compatible unikernel focused on security.
 * [HermiTux](https://github.com/ssrg-vt/hermitux) ⭐ 399 | 🐛 16 | 🌐 C | 📅 2026-10-21 - Research project from Virginia Tech, demonstrating advanced optimizations.
 * [OSv](http://osv.io) - Modular unikernel able to execute unmodified Linux binaries, developed in C++.
 
 ### Language oriented
 
-* [IncludeOS](https://github.com/includeos/IncludeOS) ⭐ 5,257 | 🐛 108 | 🌐 C++ | 📅 2026-05-15 - Feature rich unikernel development library for C++.
+* [IncludeOS](https://github.com/includeos/IncludeOS) ⭐ 5,258 | 🐛 108 | 🌐 C++ | 📅 2026-05-15 - Feature rich unikernel development library for C++.
 * [LING](https://github.com/cloudozer/ling) ⭐ 826 | 🐛 93 | 🌐 C | 📅 2022-04-17 - Erlang/Elixir unikernel development toolkit targeting Xen.
 * [Ultibo Core](https://github.com/ultibohub/Core) ⭐ 187 | 🐛 2 | 🌐 Pascal | 📅 2026-08-04 - Lazarus/FreePascal unikernel targeting Raspberry Pi as the runtime environment.
 * [rekernel](https://github.com/imbsky/rekernel) ⭐ 30 | 🐛 0 | 🌐 Makefile | 📅 2020-04-10 - Minimal setup for developing unikernels in ReasonML.
@@ -72,4 +72,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
