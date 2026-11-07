@@ -82,7 +82,7 @@
                 "open_issues": 108,
                 "owner": "includeos",
                 "repo": "IncludeOS",
-                "stars": 5258,
+                "stars": 5259,
                 "topics": [
                   "cpp",
                   "operating-system",
@@ -476,8 +476,8 @@
             "id": 47781176,
             "language": "C",
             "license": "ISC",
-            "last_commit": "2026-10-28T10:03:14Z",
-            "open_issues": 43,
+            "last_commit": "2026-11-07T09:59:32Z",
+            "open_issues": 44,
             "owner": "Solo5",
             "repo": "solo5",
             "stars": 1015,
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:10:38.682Z",
+    "last_updated": "2026-11-07T11:07:39.667Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
