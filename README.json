@@ -17,8 +17,8 @@
                 "id": 115159616,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T18:38:41Z",
-                "open_issues": 89,
+                "last_commit": "2026-11-08T18:39:37Z",
+                "open_issues": 87,
                 "owner": "nanovms",
                 "repo": "nanos",
                 "stars": 3224,
@@ -243,7 +243,7 @@
                 "open_issues": 1,
                 "owner": "ReturnInfinity",
                 "repo": "BareMetal",
-                "stars": 933,
+                "stars": 934,
                 "topics": [
                   "assembly",
                   "baremetal",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T11:20:16.208Z",
+    "last_updated": "2026-11-09T12:57:25.789Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
