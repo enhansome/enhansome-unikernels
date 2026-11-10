@@ -21,7 +21,7 @@
                 "open_issues": 87,
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3224,
+                "stars": 3225,
                 "topics": [
                   "edge",
                   "microservice",
@@ -82,7 +82,7 @@
                 "open_issues": 108,
                 "owner": "includeos",
                 "repo": "IncludeOS",
-                "stars": 5259,
+                "stars": 5260,
                 "topics": [
                   "cpp",
                   "operating-system",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:57:25.789Z",
+    "last_updated": "2026-11-10T12:43:06.730Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
