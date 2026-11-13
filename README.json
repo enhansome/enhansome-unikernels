@@ -82,7 +82,7 @@
                 "open_issues": 108,
                 "owner": "includeos",
                 "repo": "IncludeOS",
-                "stars": 5259,
+                "stars": 5258,
                 "topics": [
                   "cpp",
                   "operating-system",
@@ -243,7 +243,7 @@
                 "open_issues": 1,
                 "owner": "ReturnInfinity",
                 "repo": "BareMetal",
-                "stars": 934,
+                "stars": 935,
                 "topics": [
                   "assembly",
                   "baremetal",
@@ -269,7 +269,7 @@
                 "open_issues": 15,
                 "owner": "hermit-os",
                 "repo": "libhermit",
-                "stars": 225,
+                "stars": 224,
                 "topics": [
                   "cloud-computing",
                   "high-performance-computing",
@@ -480,7 +480,7 @@
             "open_issues": 44,
             "owner": "Solo5",
             "repo": "solo5",
-            "stars": 1017,
+            "stars": 1018,
             "topics": [
               "freebsd",
               "hypervisor",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T12:49:48.001Z",
+    "last_updated": "2026-11-13T12:17:41.921Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
