@@ -125,7 +125,7 @@
                 "id": 50970731,
                 "language": "Pascal",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-04T08:16:24Z",
+                "last_commit": "2026-11-14T09:22:42Z",
                 "open_issues": 2,
                 "owner": "ultibohub",
                 "repo": "Core",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T12:17:41.921Z",
+    "last_updated": "2026-11-14T11:33:45.446Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
