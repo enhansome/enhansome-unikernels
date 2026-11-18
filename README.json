@@ -21,7 +21,7 @@
                 "open_issues": 86,
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3229,
+                "stars": 3230,
                 "topics": [
                   "edge",
                   "microservice",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T13:32:36.674Z",
+    "last_updated": "2026-11-18T13:08:58.112Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
