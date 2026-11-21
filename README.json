@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-08T18:39:37Z",
-                "open_issues": 86,
+                "open_issues": 87,
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3230,
+                "stars": 3231,
                 "topics": [
                   "edge",
                   "microservice",
@@ -82,7 +82,7 @@
                 "open_issues": 108,
                 "owner": "includeos",
                 "repo": "IncludeOS",
-                "stars": 5258,
+                "stars": 5259,
                 "topics": [
                   "cpp",
                   "operating-system",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T13:01:11.220Z",
+    "last_updated": "2026-11-21T12:44:14.621Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
