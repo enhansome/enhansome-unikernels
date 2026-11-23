@@ -476,7 +476,7 @@
             "id": 47781176,
             "language": "C",
             "license": "ISC",
-            "last_commit": "2026-11-19T10:10:46Z",
+            "last_commit": "2026-11-23T12:41:57Z",
             "open_issues": 41,
             "owner": "Solo5",
             "repo": "solo5",
@@ -505,7 +505,7 @@
             "language": "OCaml",
             "license": "ISC",
             "last_commit": "2026-09-21T18:44:22Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "robur-coop",
             "repo": "albatross",
             "stars": 172,
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T12:38:56.421Z",
+    "last_updated": "2026-11-23T14:47:17.032Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
