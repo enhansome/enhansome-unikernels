@@ -21,7 +21,7 @@
                 "open_issues": 87,
                 "owner": "nanovms",
                 "repo": "nanos",
-                "stars": 3233,
+                "stars": 3234,
                 "topics": [
                   "edge",
                   "microservice",
@@ -476,7 +476,7 @@
             "id": 47781176,
             "language": "C",
             "license": "ISC",
-            "last_commit": "2026-11-23T12:41:57Z",
+            "last_commit": "2026-11-24T11:09:48Z",
             "open_issues": 41,
             "owner": "Solo5",
             "repo": "solo5",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T14:47:17.032Z",
+    "last_updated": "2026-11-24T14:56:04.926Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",
