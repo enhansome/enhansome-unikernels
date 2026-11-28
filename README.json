@@ -243,7 +243,7 @@
                 "open_issues": 1,
                 "owner": "ReturnInfinity",
                 "repo": "BareMetal",
-                "stars": 936,
+                "stars": 934,
                 "topics": [
                   "assembly",
                   "baremetal",
@@ -357,7 +357,7 @@
                 "open_issues": 0,
                 "owner": "libunicycle",
                 "repo": "unicycle",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "low-latency",
                   "unikernel"
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T13:56:59.255Z",
+    "last_updated": "2026-11-28T13:08:45.548Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Curated list of unikernel resources",

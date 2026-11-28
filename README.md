@@ -39,11 +39,11 @@
 
 ### Generic
 
-* [BareMetal](https://github.com/ReturnInfinity/BareMetal) ⭐ 936 | 🐛 1 | 🌐 Assembly | 📅 2026-06-12 - Self described as an exokernel, it can be used as the starting point for unikernel development.
+* [BareMetal](https://github.com/ReturnInfinity/BareMetal) ⭐ 934 | 🐛 1 | 🌐 Assembly | 📅 2026-06-12 - Self described as an exokernel, it can be used as the starting point for unikernel development.
 * [HermitCore](https://github.com/hermitcore/libhermit) ⚠️ Archived - A C-based, lightweight unikernel project from Aachen University.
 * [EbbRT](https://github.com/SESA/EbbRT) ⭐ 76 | 🐛 8 | 🌐 C | 📅 2024-07-23 - Boston University unikernel research project.
 * [Nautilus](https://github.com/HExSA-Lab/nautilus) ⭐ 52 | 🐛 8 | 🌐 C | 📅 2022-05-11 - Aerokernel from Sandia National Laboratories, supporting bare metal x86\_64 and Xeon Phi.
-* [unicycle](https://github.com/libunicycle/unicycle) ⭐ 13 | 🐛 0 | 🌐 C | 📅 2025-06-01 - Unikernel application framework developed in C.
+* [unicycle](https://github.com/libunicycle/unicycle) ⭐ 14 | 🐛 0 | 🌐 C | 📅 2025-06-01 - Unikernel application framework developed in C.
 * [JML](https://github.com/yesco/jml) ⭐ 13 | 🐛 0 | 🌐 C | 📅 2024-05-23 - Proof of concept for a minimal web server unikernel implementing its own language.
 * [ClickOS](http://cnp.neclab.eu/projects/clickos) - Efficient network function virtualization platform, optimized for Xen and developed by NEC.
 * [Clive](http://lsub.org/ls/clive.html) - Research project from Rey Juan Carlos University (Madrid), developed in Go.
@@ -72,4 +72,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
